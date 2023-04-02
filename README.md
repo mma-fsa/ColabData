@@ -1,2 +1,3 @@
-# BayesianAntiSelectionEstimator
-Bayesian Estimation of Anti-Selective Population Parameters
+# Colab Data
+
+Easy access to data used in my Colab projects
